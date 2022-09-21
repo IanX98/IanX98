@@ -57,7 +57,7 @@ big dreams are accomplished by continuous steps
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-#### *🎛️ O p e r a t i n g  S y s t e m
+#### *🎛️ O p e r a t i n g  S y s t e m s
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
