@@ -3,7 +3,7 @@
 <br>
 ~ CS Undergraduate at [CESAR School](http://www.cesar.school).
 <br>
-~ Dogs, games and the gym hava a special place in my life.
+~ Dogs, games and the gym have a special place in my life.
 
 <div><b>Want to talk?</b></div><br>
 <a href="mailto:ianpedro7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
