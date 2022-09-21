@@ -1,5 +1,5 @@
 ### Greetings fellow Devs, name's Ian
-~ Currently working as Software Developer at Encora.
+~ Currently working as Software Developer Intern at Encora.
 <br>
 ~ CS Undergraduate at [CESAR School](http://www.cesar.school).
 <br>
