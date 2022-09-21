@@ -18,7 +18,7 @@ big dreams are accomplished by continuous steps
 ```
 ---
 
-##### *📋 l a n g u a g e s
+##### *📋 L a n g u a g e s
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
